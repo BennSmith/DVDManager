@@ -2,6 +2,7 @@
 
 Code by: Ben Smith
 Design by : Ben Smith
+Copyright: 2016 smithb25@miamioh.edu
 
 I. About
 	
@@ -16,7 +17,7 @@ I. About
 
 II. How to Use
 	
-	1. 	Open the Program
+	1. 	Open the Program as a Project in Eclipse
 	
 	2. 	Welcome to the main program of the window.  There are three main areas: the menu bar at the top,
 		the customer database on the left, and the dvd database on the right.  The following sections address
